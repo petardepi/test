@@ -1,2 +1,2 @@
-cao brate sa laptopa
-
+# test
+vezbanje github-a IZMENA NA LAPTOPU
