@@ -1,2 +1,2 @@
 # test
-vezbanje github-a IZMENA2
+vezbanje github-a
