@@ -1,2 +1,2 @@
 # test
-vezbanje github-a IZMENA
+vezbanje github-a IZMENA NA LAPTOPU
